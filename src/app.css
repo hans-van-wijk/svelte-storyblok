@@ -1,0 +1,10 @@
+@import url('./styles/themes/default.css');
+
+body {
+  background: var(--app-bg);
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
